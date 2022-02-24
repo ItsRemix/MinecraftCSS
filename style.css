@@ -276,37 +276,67 @@
 /* HYPIXEL SKYBLOCK */
 
 .sb-rarity-common {
-    color: var(--white)
+    color: var(--white);
 }
 
 .sb-rarity-uncommon {
-    color: var(--green)
+    color: var(--green);
 }
 
 .sb-rarity-rare {
-    color: var(--blue)
+    color: var(--blue);
 }
 
 .sb-rarity-epic {
-    color: var(--dark-purple)
+    color: var(--dark-purple);
 }
 
 .sb-rarity-legendary {
-    color: var(--gold)
+    color: var(--gold);
 }
 
 .sb-rarity-mythic {
-    color: var(--light-purple)
+    color: var(--light-purple);
 }
 
 .sb-rarity-divine {
-    color: var(--aqua)
+    color: var(--aqua);
 }
 
 .sb-rarity-special {
-    color: var(--red)
+    color: var(--red);
 }
 
 .sb-rarity-veryspecial {
-    color: var(--red)
+    color: var(--red);
+}
+
+.hp-rank-vip {
+    color: var(--green)
+}
+
+.hp-rank-mvp {
+    color: var(--green)
+}
+
+.hp-rank-mvp-plus-plus {
+    color: var(--gold)
+}
+
+/* WYNNCRAFT */
+
+.wc-rank-vip {
+    color: var(--green);
+}
+
+.wc-rank-vip-plus {
+    color: var(--dark-aqua);
+}
+
+.wc-rank-hero {
+    color: var(--purple);
+}
+
+.wc-rank-champion {
+    color: var(--gold);
 }
