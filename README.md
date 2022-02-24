@@ -13,4 +13,4 @@ Sadly there are no mirrors for Minecraft CSS for now! Download it from [release 
 
 ## Sources
 
-We don't claim any rights to colors used in this repository. They are copied from Minecraft, Mojang Synergies AB property.
+We don't claim any rights to colors used in this repository. They are inspired from Minecraft, Mojang Synergies AB property.
