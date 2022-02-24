@@ -1,0 +1,154 @@
+:root {
+    --0-color: #000000,
+    --1-color: #0000AA,
+    --2-color: #00AA00,
+    --3-color: #00AAAA,
+    --4-color: #AA0000,
+    --5-color: #AA00AA,
+    --6-color: #FFAA00,
+    --7-color: #AAAAAA,
+    --8-color: #555555,
+    --9-color: #5555FF,
+    --a-color: #55FF55,
+    --b-color: #55FFFF,
+    --c-color: #FF5555,
+    --d-color: #FF55FF,
+    --e-color: #FFFF55,
+    --f-color: #FFFFFF
+}
+
+.color-0 {
+    color: var(--0-color);
+}
+
+.background-0 {
+    background-color: var(--0-color);
+}
+
+.color-1 {
+    color: var(--1-color);
+}
+
+.background-1 {
+    background-color: var(--1-color);
+}
+
+.color-2 {
+    color: var(--2-color);
+}
+
+.background-2 {
+    background-color: var(--2-color);
+}
+
+.color-3 {
+    color: var(--3-color);
+}
+
+.background-3 {
+    background-color: var(--3-color);
+}
+
+.color-4 {
+    color: var(--4-color);
+}
+
+.background-4 {
+    background-color: var(--4-color);
+}
+
+.color-5 {
+    color: var(--5-color);
+}
+
+.background-5 {
+    background-color: var(--5-color);
+}
+
+.color-6 {
+    color: var(--6-color);
+}
+
+.background-6 {
+    background-color: var(--6-color);
+}
+
+.color-7 {
+    color: var(--7-color);
+}
+
+.background-7 {
+    background-color: var(--7-color);
+}
+
+.color-8 {
+    color: var(--8-color);
+}
+
+.background-8 {
+    background-color: var(--8-color);
+}
+
+.color-9 {
+    color: var(--9-color);
+}
+
+.background-9 {
+    background-color: var(--9-color);
+}
+
+.color-a {
+    color: var(--a-color);
+}
+
+.background-a {
+    background-color: var(--a-color);
+}
+
+.color-b {
+    color: var(--b-color);
+}
+
+.background-b {
+    background-color: var(--b-color);
+}
+
+.color-c {
+    color: var(--c-color);
+}
+
+.background-c {
+    background-color: var(--c-color);
+}
+
+.color-c {
+    color: var(--c-color);
+}
+
+.background-c {
+    background-color: var(--c-color);
+}
+
+.color-d {
+    color: var(--d-color);
+}
+
+.background-d {
+    background-color: var(--d-color);
+}
+
+.color-e {
+    color: var(--e-color);
+}
+
+.background-e {
+    background-color: var(--e-color);
+}
+
+.color-f {
+    color: var(--f-color);
+}
+
+.background-f {
+    background-color: var(--f-color);
+}
