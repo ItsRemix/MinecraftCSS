@@ -299,6 +299,14 @@
     color: var(--light-purple)
 }
 
+.sb-rarity-divine {
+    color: var(--aqua)
+}
+
 .sb-rarity-special {
+    color: var(--red)
+}
+
+.sb-rarity-veryspecial {
     color: var(--red)
 }
