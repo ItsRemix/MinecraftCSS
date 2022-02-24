@@ -298,3 +298,7 @@
 .sb-rarity-mythic {
     color: var(--light-purple)
 }
+
+.sb-rarity-special {
+    color: var(--red)
+}
