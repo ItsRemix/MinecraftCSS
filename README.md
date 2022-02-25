@@ -6,7 +6,9 @@
 
 ### Installation
 
-Sadly there are no mirrors for Minecraft CSS for now! Download it from [release tab](https://github.com/ThatRemixiak/MinecraftCSS/releases)
+JSDelivr - https://cdn.jsdelivr.net/gh/thatremixiak/minecraftcss/style.css
+<br>
+Download it from [release tab](https://github.com/ThatRemixiak/MinecraftCSS/releases)
 
 ### Sources
 

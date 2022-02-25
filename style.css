@@ -17,326 +17,196 @@
     --white: #FFFFFF;
 }
 
-.color-0 {
-    color: var(--black);
-}
-
+.color-0,
 .color-black {
     color: var(--black);
 }
 
-.background-0 {
-    background-color: var(--black);
-}
-
+.background-0,
 .background-black {
     background-color: var(--black);
 }
 
-.color-1 {
+.color-1,
+.color-dark-blue  {
     color: var(--dark-blue);
 }
 
-.color-dark-blue {
-    color: var(--dark-blue)
-}
-
-.background-1 {
+.background-1,
+.background-dark-blue  {
     background-color: var(--dark-blue);
 }
 
-.background-dark-blue {
-    background-color: var(--dark-blue);
-}
-
-.color-2 {
-    color: var(--dark-green);
-}
-
+.color-2,
 .color-dark-green {
     color: var(--dark-green);
 }
 
-.background-2 {
-    background-color: var(--dark-green);
-}
-
+.background-2,
 .background-dark-green {
     background-color: var(--dark-green);
 }
 
-.color-3 {
-    color: var(--dark-aqua);
-}
-
-.color-dark-aqua {
-    color: var(--dark-aqua);
-}
-
-.background-3 {
-    background-color: var(--dark-aqua);
-}
-
-.background-dark-aqua {
-    background-color: var(--dark-aqua);
-}
-
-.color-4 {
-    color: var(--dark-red);
-}
-
-.color-dark-red {
-    color: var(--dark-red);
-}
-
-.background-4 {
-    background-color: var(--dark-red);
-}
-
-.background-dark-red {
-    background-color: var(--dark-red);
-}
-
-.color-5 {
-    color: var(--dark-purple);
-}
-
-.color-dark-purple {
-    color: var(--dark-purple);
-}
-
-.background-5 {
-    background-color: var(--dark-purple);
-}
-
-.background-dark-purple {
-    background-color: var(--dark-purple);
-}
-
-.color-6 {
-    color: var(--gold);
-}
-
-.color-gold {
-    color: var(--gold);
-}
-
-.background-6 {
-    background-color: var(--gold);
-}
-
-.background-gold {
-    background-color: var(--gold);
-}
-
-.color-7 {
-    color: var(--gray);
-}
-
-.color-gray {
-    color: var(--gray);
-}
-
-.background-7 {
-    background-color: var(--gray);
-}
-
-.background-gray {
-    background-color: var(--gray);
-}
-
-.color-8 {
-    color: var(--dark-gray);
-}
-
-.color-dark-gray {
-    color: var(--dark-gray);
-}
-
-.background-8 {
-    background-color: var(--dark-gray);
-}
-
-.background-dark-gray {
-    background-color: var(--dark-gray);
-}
-
-.color-9 {
-    color: var(--blue);
-}
-
-.color-blue {
-    color: var(--blue);
-}
-
-.background-9 {
-    background-color: var(--blue);
-}
-
-.background-blue {
-    background-color: var(--blue);
-}
-
-.color-a {
-    color: var(--green);
-}
-
-.color-green {
-    color: var(--green);
-}
-
-.background-a {
-    background-color: var(--green);
-}
-
-.background-green {
-    background-color: var(--green);
-}
-
-.color-b {
-    color: var(--aqua);
-}
-
-.color-aqua {
-    color: var(--aqua);
-}
-
-.background-b {
-    background-color: var(--aqua);
-}
-
-.background-aqua {
-    background-color: var(--aqua);
-}
-
-.color-c {
-    color: var(--red);
-}
-
-.color-red {
-    color: var(--red);
-}
-
-.background-c {
-    background-color: var(--red);
-}
-
-.background-red {
-    background-color: var(--red);
-}
-
-.color-d {
-    color: var(--light-purple);
-}
-
-.color-light-purple {
-    color: var(--light-purple);
-}
-
-.background-d {
-    background-color: var(--light-purple);
-}
-
-.background-light-purple {
-    background-color: var(--light-purple);
-}
-
-.color-e {
-    color: var(--yellow);
-}
-
-.color-yellow {
-    color: var(--yellow);
-}
-
-.background-e {
-    background-color: var(--yellow);
-}
-
-.background-yellow {
-    background-color: var(--yellow);
-}
-
-.color-f {
-    color: var(--white);
-}
-
-.color-white {
-    color: var(--white);
-}
-
-.background-f {
-    background-color: var(--white);
-}
-
-.background-white {
-    background-color: var(--white);
-}
-
-/* HYPIXEL SKYBLOCK */
-
-.sb-rarity-common {
-    color: var(--white);
-}
-
-.sb-rarity-uncommon {
-    color: var(--green);
-}
-
-.sb-rarity-rare {
-    color: var(--blue);
-}
-
-.sb-rarity-epic {
-    color: var(--dark-purple);
-}
-
-.sb-rarity-legendary {
-    color: var(--gold);
-}
-
-.sb-rarity-mythic {
-    color: var(--light-purple);
-}
-
-.sb-rarity-divine {
-    color: var(--aqua);
-}
-
-.sb-rarity-special {
-    color: var(--red);
-}
-
-.sb-rarity-veryspecial {
-    color: var(--red);
-}
-
-.hp-rank-vip {
-    color: var(--green)
-}
-
-.hp-rank-mvp {
-    color: var(--green)
-}
-
-.hp-rank-mvp-plus-plus {
-    color: var(--gold)
-}
-
-/* WYNNCRAFT */
-
-.wc-rank-vip {
-    color: var(--green);
-}
-
+.color-3,
+.color-dark-aqua,
 .wc-rank-vip-plus {
     color: var(--dark-aqua);
 }
 
-.wc-rank-hero {
-    color: var(--purple);
+.background-3,
+.background-dark-aqua
+.wc-rank-vip-plus-bg {
+    background-color: var(--dark-aqua);
 }
 
+.color-4,
+.color-dark-red {
+    color: var(--dark-red);
+}
+
+.background-4,
+.background-dark-red {
+    background-color: var(--dark-red);
+}
+
+.color-5,
+.background-dark-purple,
+.sb-rarity-epic {
+    color: var(--dark-purple);
+}
+
+.background-5,
+.background-dark-purple,
+.sb-rarity-epic-bg {
+    background-color: var(--dark-purple);
+}
+
+.color-6,
+.color-gold,
+.sb-rarity-legendary,
+.hp-rank-mvp-plus-plus,
 .wc-rank-champion {
     color: var(--gold);
+}
+
+.background-6,
+.background-gold,
+.sb-rarity-legendary-bg,
+.hp-rank-mvp-plus-plus-bg,
+.wc-rank-champion {
+    background-color: var(--gold);
+}
+
+.color-7, 
+.color-gray {
+    color: var(--gray);
+}
+
+.background-7,
+.background-gray  {
+    background-color: var(--gray);
+}
+
+.color-8,
+.color-dark-gray  {
+    color: var(--dark-gray);
+}
+
+.background-8,
+.background-dark-gray {
+    background-color: var(--dark-gray);
+}
+
+.color-9,
+.color-blue,
+.sb-rarity-rare {
+    color: var(--blue);
+}
+
+.background-9,
+.background-blue,
+.sb-rarity-rare-bg {
+    background-color: var(--blue);
+}
+
+.color-a,
+.color-green,
+.sb-rarity-uncommon,
+.hp-rank-vip,
+.wc-rank-vip {
+    color: var(--green);
+}
+
+.background-a,
+.background-green,
+.hp-rank-vip-bg,
+.wc-rank-vip-bg  {
+    background-color: var(--green);
+}
+
+.color-b,
+.color-aqua,
+.sb-rarity-divine,
+.hp-rank-mvip {
+    color: var(--aqua);
+}
+
+.background-b,
+.background-aqua,
+.sb-rarity-divine-bg,
+.hp-rank-mvip-bg {
+    background-color: var(--aqua);
+}
+
+.color-c,
+.color-red,
+.sb-rarity-special,
+.sb-rarity-very-special {
+    color: var(--red);
+}
+
+.background-c,
+.background-red,
+.sb-rarity-special-bg
+.sb-rarity-very-special-bg {
+    background-color: var(--red);
+}
+
+
+.color-d,
+.color-light-purple,
+.sb-rarity-mythic,
+.wc-rank-hero {
+    color: var(--light-purple);
+}
+
+
+.background-d,
+.background-light-purple,
+.sb-rarity-mythic-bg {
+    background-color: var(--light-purple);
+}
+
+
+.color-e,
+.color-yellow {
+    color: var(--yellow);
+}
+
+
+.background-e,
+.background-yellow {
+    background-color: var(--yellow);
+}
+
+.color-f,
+.color-white,
+.sb-rarity-common {
+    color: var(--white);
+}
+
+.background-f,
+.background-white,
+.sb-rarity-common-bg  {
+    background-color: var(--white);
 }
