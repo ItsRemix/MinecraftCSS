@@ -13,3 +13,7 @@ Download it from [release tab](https://github.com/ThatRemixiak/MinecraftCSS/rele
 ### Sources
 
 We don't claim any rights to colors used in this repository. They are inspired from Minecraft, Mojang Synergies AB property.
+
+### Contributors
+
+[Mopsior](https://mopsior.pl)
