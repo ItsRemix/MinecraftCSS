@@ -6,7 +6,7 @@
 
 ### Installation
 
-JSDelivr - https://cdn.jsdelivr.net/gh/thatremixiak/minecraftcss/style.css
+JSDelivr - https://cdn.jsdelivr.net/gh/itsremix/minecraftcss/style.css
 <br>
 Download it from [release tab](https://github.com/ThatRemixiak/MinecraftCSS/releases)
 
